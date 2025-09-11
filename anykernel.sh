@@ -15,7 +15,7 @@ device.name2=RMX1901CN
 device.name3=realme_sdm710
 device.name4=nicky
 device.name5=xandxt
-supported.versions=11 - 15
+supported.versions=11 - 16
 '; } # end properties
 
 
